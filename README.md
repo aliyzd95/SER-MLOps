@@ -34,7 +34,7 @@ This project presents a fine-tuned version of OpenAI's [Whisper](https://hugging
 ## 📊 Results
 
 - **Training Loss**: `0.3323`
-- **Word Error Rate (WER)**: `31.93%` (on validation set)
+- **Word Error Rate (WER)**: `31.93` (on validation set)
 
 ---
 
